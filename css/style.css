@@ -82,9 +82,3 @@ html {
   letter-spacing: 8px;
   text-transform: uppercase;
 }
-
-@media (max-width: 568px) {
-  .WelcomeImage .SectionOneImg .SectionTwoImg .SectionThreeImg {
-    background-attachment: scroll;
-  }
-}
